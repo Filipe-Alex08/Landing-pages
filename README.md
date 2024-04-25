@@ -38,7 +38,7 @@
 
 <h2 align="center">Como visualizar os projetos ✅</h2>
 
-Na pasta de _"Portifolio-Main"_
+Na pasta de ###**"Portifolio-Main"**
 
 Os projetos poderão ser vistos e acessados através do portifolio-main
 Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pessoa nunca rodou seu projeto. Não tenha medo de detalhar o máximo possível. Isso é necessário!
