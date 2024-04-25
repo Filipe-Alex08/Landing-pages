@@ -3,7 +3,7 @@
 <p align="center"><i>Repositório para versionamento e documentação de projetos de páginas WEB no meu Github.</i></p>
 
 <!-- Linguagens utilizadas -->
-<!-- Informações adicionais no -->
+<!-- Informações adicionais no projeto -->
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/github/languages/top/Editora-Artigos/article-model" alt="top-language"/>
@@ -14,16 +14,10 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Editora-Artigos/article-model.svg">
   </a>
 
-<!-- Informações adicionais no -->
+<!-- Informações Sobre as técnologias utilizadas nos Projetos -->
+<h2 align="center">Tecnologias Utilizadas</h1>
 
-* O [Mermaid](https://mermaid.live/edit#pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o) é uma opção bem legal para diagramas e você consegue utilizar diretamente no README.md:
-
-[![](https://mermaid.ink/img/pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o?type=png)](https://mermaid.live/edit#pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o)
-
-- No site, vá no campo: Actions > Copy Markdown. Copie o link e cole no seu arquivo README.md e o diagrama estará lá.
-
-
-### Tecnologias Utilizadas
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAASBJREFUSEvVldGNwjAQRIdOjkqASoBKgEqASoBKoBPgSRm0kr2JEwmh28/I3ueZ8TozfblmX+6vnwDukv4mKntImse9NQUXScuJgKuk1RDgKGkzEXCStB0DOLxhyO4r7Nx1C1i/HwJwelRQ+NkCIDdqNAA/8ZVTLRIZKPClwB5s+lQtZAImaMobWnPxgUYDgGZXdx1uXROARqmnFZuwzyEXmWWT/OwaEXAW8rnzO9pX9MsAnmaakwMW+ZQWYTs8mMUUs3AI4MmMwRtgOyYBsk0OG7Cts9rimehTEH3Fotgw5hyHsngmWgFuCITi5LVrW0xxHyBevWSAi8+jAMwC8nke4lNQg2HNLbOx9Y+GJZ5YgDRlDmxbqrIV0GpTse7/A14igkcZCy+5LQAAAABJRU5ErkJggg=="/>
 
 Liste as tecnologias (linguagens, ferramentas, bibliotecas) que você utilizou para elaborar o projeto. Essa parte é importante para quando um recrutador (que não tem conhecimento de programação) acessar o seu projeto, ele vai saber só olhando a documentação quais tecnologias você já conhece!
 
