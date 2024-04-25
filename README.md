@@ -20,7 +20,7 @@
 <h2 align="center">Tecnologias Utilizadas</h1>
 
 <p align="center" display="inline-block"> 
-  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20HTML5.png?raw=true" width=50rem height=50rem/>
+  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20HTML5.png?raw=true" width=50vw height=50vh/>
   <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20CSS3.png?raw=true"/>
   <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20JavaScript.png?raw=true"/>
 </p>
