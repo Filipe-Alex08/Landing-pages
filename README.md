@@ -14,14 +14,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Editora-Artigos/article-model.svg">
   </a>
 
-
-  <a href="https://github.com/Editora-Artigos/article-model">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Editora-Artigos/article-model.svg">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/Editora-Artigos/article-model.svg">
-  </p>
-</p>
+<!-- Informações adicionais no -->
 
 * O [Mermaid](https://mermaid.live/edit#pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o) é uma opção bem legal para diagramas e você consegue utilizar diretamente no README.md:
 
