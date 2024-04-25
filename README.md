@@ -22,15 +22,12 @@
   <p align="center" display="inline-block">
     <p align="center">
       <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20HTML5.png?raw=true" width=100vw height=100vh/>
-      HTML
     </p>
     <p align="center">
       <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20CSS3.png?raw=true" width=100vw height=100vh/>
-      CSS
     </p>
     <p align="center">
       <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20JavaScript.png?raw=true" width=100vw height=100vh/>
-      JavaScript
     </p>
   </p>
   
