@@ -18,7 +18,7 @@
 
 <!-- Informações Sobre as técnologias utilizadas nos Projetos -->
 
-<h2 align="center">Tecnologias Utilizadas</h1>
+<h2 align="center">Tecnologias Utilizadas</h2>
 
 <p align="center">
   As Tecnologias utilizadas para os projetos aplicados são:
@@ -30,14 +30,17 @@
 </p>
 
 
-## Dependências e Versões Necessárias
+<h2 align="center">Dependências e Versões Necessárias</h2>
+  <p align="center">
+    Devido às aplicações serem apenas representações de Landing Pages, os projetos apresentados não possuem versões ou certas dependências.
+  </p>
 
-Liste as dependências necessárias para rodar o projeto e as versões que você utilizou.
 
-* Docker - Versão: X.X
+<h2 align="center">Como visualizar os projetos ✅</h2>
 
-## Como rodar o projeto ✅
+Na pasta de _"Portifolio-Main"_
 
+Os projetos poderão ser vistos e acessados através do portifolio-main
 Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pessoa nunca rodou seu projeto. Não tenha medo de detalhar o máximo possível. Isso é necessário!
 
 Uma boa forma de descrever o passo a passo é:
