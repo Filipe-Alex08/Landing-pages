@@ -38,22 +38,29 @@
 
 <h2 align="center">Como visualizar os projetos ✅</h2>
 
-Na pasta de ###**"Portifolio-Main"**
+Na pasta de <a href=""> **"Portifolio-Main"** </a> Vocês poderão visualizar as imagens dos projetos, além de conter as descrição de cada landing pages e suas utilizadades e observações.
+E ao clicar em cada imagem ou titulo dessas landing pages, vocês poderão visualizar em primeira mão o trabalho realizado.
 
-Os projetos poderão ser vistos e acessados através do portifolio-main
-Descreva o passo a passo necessário para rodar sua aplicação. Lembre-se: a pessoa nunca rodou seu projeto. Não tenha medo de detalhar o máximo possível. Isso é necessário!
-
-Uma boa forma de descrever o passo a passo é:
-
+Caso ainda tenha alguma dúvida de como realizar isso, vocês poderão seguir as intruções abaixo:
 ```
 Comando 1
 ```
-
-Depois, rode o seguinte comando:
+#EM CONSTRUÇÂO
+##Imagens em andamento
 
 ```
 Comando 2
 ```
+#EM CONSTRUÇÂO
+##Imagens em andamento
+
+```
+Comando 3
+```
+#EM CONSTRUÇÂO
+##Imagens em andamento
+
+
 
 Deixe claro como a pessoa pode confirmar que a aplicação está rodando da forma correta. Pode ser com prints ou a mensagem que ela deve esperar.
 
