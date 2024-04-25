@@ -80,7 +80,7 @@ Link para o Portifolio
 </p>
 
 
-## ⏭️ Próximos passos
+<h3 align="center">⏭️ Próximos passos</h3>
 
 <p>
   Futuramente irei acrescentar alguns novos projetos para esse repositório.
