@@ -8,7 +8,9 @@
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/github/languages/top/Editora-Artigos/article-model" alt="top-language"/>
   <img src="https://img.shields.io/github/languages/count/Editora-Artigos/article-model.svg" alt="number-of-languages"/>
-  <a href="https://www.codacy.com/gh/Editora-Artigos/article-model/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Editora-Artigos/article-model&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/a148a172d5b6471098a0f0166b08e542"/></a>
+  <a href="https://www.codacy.com/gh/Editora-Artigos/article-model/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Editora-Artigos/article-model&amp;utm_campaign=Badge_Grade">
+    <img src="https://app.codacy.com/project/badge/Grade/a148a172d5b6471098a0f0166b08e542"/>
+  </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Editora-Artigos/article-model.svg">
   <a href="https://github.com/Editora-Artigos/article-model/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Editora-Artigos/article-model.svg">
@@ -17,7 +19,12 @@
 <!-- Informações Sobre as técnologias utilizadas nos Projetos -->
 <h2 align="center">Tecnologias Utilizadas</h1>
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAASBJREFUSEvVldGNwjAQRIdOjkqASoBKgEqASoBKoBPgSRm0kr2JEwmh28/I3ueZ8TozfblmX+6vnwDukv4mKntImse9NQUXScuJgKuk1RDgKGkzEXCStB0DOLxhyO4r7Nx1C1i/HwJwelRQ+NkCIDdqNAA/8ZVTLRIZKPClwB5s+lQtZAImaMobWnPxgUYDgGZXdx1uXROARqmnFZuwzyEXmWWT/OwaEXAW8rnzO9pX9MsAnmaakwMW+ZQWYTs8mMUUs3AI4MmMwRtgOyYBsk0OG7Cts9rimehTEH3Fotgw5hyHsngmWgFuCITi5LVrW0xxHyBevWSAi8+jAMwC8nke4lNQg2HNLbOx9Y+GJZ5YgDRlDmxbqrIV0GpTse7/A14igkcZCy+5LQAAAABJRU5ErkJggg=="/>
+<p align="center" display="inline-block"> 
+  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20HTML5.png?raw=true"/>
+  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20CSS3.png?raw=true"/>
+  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20JavaScript.png?raw=true"/>
+</p>
+  
 
 Liste as tecnologias (linguagens, ferramentas, bibliotecas) que você utilizou para elaborar o projeto. Essa parte é importante para quando um recrutador (que não tem conhecimento de programação) acessar o seu projeto, ele vai saber só olhando a documentação quais tecnologias você já conhece!
 
