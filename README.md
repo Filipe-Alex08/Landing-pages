@@ -38,7 +38,7 @@
 
 <h2 align="center">Como visualizar os projetos ✅</h2>
 
-Na pasta de <a href=""> **"Portifolio-Main"** </a> Vocês poderão visualizar as imagens dos projetos, além de conter as descrição de cada landing pages e suas utilizadades e observações.
+Na pasta de <a href="#"> **"Portifolio-Main"** </a> Vocês poderão visualizar as imagens dos projetos, além de conter as descrição de cada landing pages e suas utilizadades e observações.
 E ao clicar em cada imagem ou titulo dessas landing pages, vocês poderão visualizar em primeira mão o trabalho realizado.
 
 Caso ainda tenha alguma dúvida de como realizar isso, vocês poderão seguir as intruções abaixo:
