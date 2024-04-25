@@ -1,6 +1,8 @@
-# Article Model
+<h1 align="center">Landing pages</h1>
+<p align="center"><i>Repositório para versionamento e documentação de projetos de páginas WEB no meu Github.</i></p>
 
-Repository for versioning and project documentation used during the series of articles on GitHub.
+
+
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/github/languages/top/Editora-Artigos/article-model" alt="top-language"/>
