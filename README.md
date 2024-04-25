@@ -46,18 +46,21 @@ Caso ainda tenha alguma dúvida de como realizar isso, vocês poderão seguir as
 Comando 1
 ```
 #EM CONSTRUÇÂO
+
 ##Imagens em andamento
 
 ```
 Comando 2
 ```
 #EM CONSTRUÇÂO
+
 ##Imagens em andamento
 
 ```
 Comando 3
 ```
 #EM CONSTRUÇÂO
+
 ##Imagens em andamento
 
 
