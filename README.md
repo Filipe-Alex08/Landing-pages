@@ -20,8 +20,8 @@
 
 <h2 align="center">Tecnologias Utilizadas</h1>
 
-As Tecnologias utilizadas para os projetos utilizizados são:
 <p align="center">
+  As Tecnologias utilizadas para os projetos utilizizados são:
   <p align="center" display="inline-block">
       <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20HTML5.png?raw=true" width=100vw height=100vh/>
       <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20CSS3.png?raw=true" width=100vw height=100vh/>
