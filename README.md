@@ -17,14 +17,25 @@
   </a>
 
 <!-- Informações Sobre as técnologias utilizadas nos Projetos -->
-<h2 align="center">Tecnologias Utilizadas</h1>
-
-<p align="center" display="inline-block"> 
-  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20HTML5.png?raw=true" width=100vw height=100vh/>
-  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20CSS3.png?raw=true" width=100vw height=100vh/>
-  <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20JavaScript.png?raw=true" width=100vw height=100vh/>
-</p>
+<p align="center">
+  As Tecnologias utilizadas para os projetos utilizizados são:
+  <p align="center" display="inline-block">
+    <p> 
+      HTML 
+      <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20HTML5.png?raw=true" width=100vw height=100vh/>
+    </p>
+    <p>
+      CSS
+      <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20CSS3.png?raw=true" width=100vw height=100vh/>
+    </p>
+    <p>
+      JavaScript
+      <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20JavaScript.png?raw=true" width=100vw height=100vh/>
+    </p>
+  </p>
   
+</p>
+
 
 Liste as tecnologias (linguagens, ferramentas, bibliotecas) que você utilizou para elaborar o projeto. Essa parte é importante para quando um recrutador (que não tem conhecimento de programação) acessar o seu projeto, ele vai saber só olhando a documentação quais tecnologias você já conhece!
 
