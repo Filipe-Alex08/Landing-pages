@@ -24,11 +24,7 @@
       <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20CSS3.png?raw=true" width=100vw height=100vh/>
       <img src="https://github.com/Filipe-Alex08/Landing-pages/blob/main/Imagens%20&%20Logos/Programa%C3%A7%C3%A3o/Logo%20-%20JavaScript.png?raw=true" width=100vw height=100vh/>
   </p>
-  
 </p>
-
-
-Liste as tecnologias (linguagens, ferramentas, bibliotecas) que você utilizou para elaborar o projeto. Essa parte é importante para quando um recrutador (que não tem conhecimento de programação) acessar o seu projeto, ele vai saber só olhando a documentação quais tecnologias você já conhece!
 
 Exemplo:
 * [Golang](https://github.com/golang/go)
