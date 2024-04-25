@@ -1,3 +1,7 @@
+# Article Model
+
+Repository for versioning and project documentation used during the series of articles on GitHub.
+
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/github/languages/top/Editora-Artigos/article-model" alt="top-language"/>
   <img src="https://img.shields.io/github/languages/count/Editora-Artigos/article-model.svg" alt="number-of-languages"/>
